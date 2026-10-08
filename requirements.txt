@@ -1,0 +1,16 @@
+# Smart Agriculture Monitoring System
+# Python Dependencies
+
+# Core Data Processing
+numpy>=1.21.0
+matplotlib>=3.4.0
+pandas>=1.3.0
+
+# Document Generation
+python-docx>=0.8.11
+
+# Optional: For advanced data analysis
+scipy>=1.7.0
+
+# Optional: For performance monitoring
+psutil>=5.8.0
